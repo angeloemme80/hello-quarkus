@@ -1,3 +1,13 @@
+# in locale da me:
+set JAVA_HOME=C:\Program Files\Java\jdk-17.0.3.1
+
+"C:\Program Files\apache-maven-3.9.4\bin\mvn" quarkus:dev
+
+"C:\Program Files\apache-maven-3.9.4\bin\mvn" quarkus:dev -Dquarkus.profile=prod
+
+
+
+
 # hello-quarkus
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
